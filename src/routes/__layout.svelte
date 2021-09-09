@@ -10,7 +10,7 @@
 </main>
 
 <footer>
-	<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+	<p>built with <a href="https://kit.svelte.dev">SvelteKit</a> on <a href="https://www.learnwithjason.dev"><em>Learn With Jason</em></a></p>
 </footer>
 
 <style>
