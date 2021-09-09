@@ -3,7 +3,7 @@
 </script>
 
 <script>
-	
+	import Boop from '$lib/Boop.svelte';
 </script>
 
 <svelte:head>
@@ -14,6 +14,8 @@
 	<h1>
 		Hello Chat!
 	</h1>
+
+	<Boop />
 </section>
 
 <style>
